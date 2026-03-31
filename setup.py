@@ -15,9 +15,6 @@ setuptools.setup(
     url="https://github.com/x1ppy/beets-originquery",
     python_requires='>=3.6',
     install_requires=[
-        "beets>=1.5.0",
-        "confuse",
         "jsonpath-rw",
-        "pyyaml",
     ],
 )
